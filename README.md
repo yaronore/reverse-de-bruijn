@@ -27,11 +27,11 @@ ReverseCAKE is a research software, still in the development stage. Hence, it is
 
 How to use it
 
-java -jar reverse.jar <k> <alphabet> <output_filename> <time limit>
+java -jar reverse.jar <k> <output_filename> <alphabet> <time limit>
 
 Example runs:
 
-java -jar ReverseCAKE.jar 8 ACGT sequence8.txt 0
+java -jar reverse.jar 8 sequence8.txt ACGT 0
 
 
 Interpreting the output
