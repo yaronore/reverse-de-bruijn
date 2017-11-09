@@ -27,7 +27,7 @@ ReverseCAKE is a research software, still in the development stage. Hence, it is
 
 How to use it
 
-java -jar ReverseCAKE.jar <k> <alphabet> <output_filename> <time limit>
+java -jar reverse.jar <k> <alphabet> <output_filename> <time limit>
 
 Example runs:
 
